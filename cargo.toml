@@ -1,0 +1,9 @@
+[package]
+name = "hangman_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Syla Marie Cumuyog <sylamariecumuyog@outlook.com>"]
+description = "Terminal Hangman with ASCII art - Rust module demo"
+
+[dependencies]
+rand = "0.8"
