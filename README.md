@@ -4,7 +4,7 @@ This project is a **terminal-based Hangman game** written in Rust. The game rand
 
 The purpose of writing this software was to strengthen my skills as a software engineer by practicing Rust fundamentals, such as ownership and borrowing, data structures, and control flow. This project allowed me to explore how Rust handles memory safely and how to design a simple yet interactive program with structured code.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+<!-- [Software Demo Video](http://youtube.link.goes.here) -->
 
 # Development Environment
 
